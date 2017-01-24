@@ -1,0 +1,14 @@
+Hello Guys This Script was tested in my mobile 
+And To use this Script you need to do somethings first 
+You need to install Termux 
+1. Test your device supports hostmode or not by connecting other mobile to your mobile it should detect.
+2. If its working good then next you need make adb work in your mobile
+3. I Will provide adb binary File here copy that adb to this path /data/data/com.termux/files/usr/bin/adb
+4. Then check adb devices if device Shown up you can proceed.
+5. And Next change the Path in script ,In my Mobile i used the path /sdcard/Lab/kp2p so change the path to yours.
+6. Modify the Script if you want any changes . 
+7. In the Script I used to change the Library Path So be carefull with Every Library Path. So change it carefully . 
+8. If you have any problem with this Script Use the Original script kos p2p .
+
+Thanks Happy Hacking :)
+
