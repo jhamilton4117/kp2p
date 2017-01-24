@@ -1,6 +1,8 @@
 Hello Guys This Script was tested in my mobile 
 And To use this Script you need to do somethings first 
 You need to install Termux 
+Hello Guys one more thing I'll add Modules in the script . For Notification please Subscribe My Channel 
+https://m.youtube.com/channel/UCYgXhhbtAuFHOKsNDujcxzQ
 1. Test your device supports hostmode or not by connecting other mobile to your mobile it should detect.
 2. If its working good then next you need make adb work in your mobile
 3. I Will provide adb binary File here copy that adb to this path /data/data/com.termux/files/usr/bin/adb
